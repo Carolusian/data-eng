@@ -39,6 +39,7 @@ Homework:
 
 * Scrape all the channels and all the articles
 * Visualize the relationship between articles using a graph (Treat related articles as the citation)
+
 > Memo: No need to finish all the questions in one interview. The interviewer can add/remove questions in the process.
 
 #### Sample article list data:
